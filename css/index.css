@@ -1,0 +1,63 @@
+input
+{
+    display: inline !important;
+}
+
+#mainPage h1
+{
+    text-align: center;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.twitter
+{
+    color: #3cf;
+}
+
+.twitter i
+{
+    margin: 3px;
+
+    color: #3cf;
+}
+
+.twitter i:hover
+{
+    color: #3cf;
+}
+
+.twitter i:active
+{
+    color: #1ad;
+}
+
+.facebook
+{
+    color: #3b5998;
+}
+
+.facebook i
+{
+    margin: 3px;
+
+    color: #3b5998;
+}
+
+.facebook i:hover
+{
+    color: #3b5998;
+}
+
+.facebook i:active
+{
+    color: #193776;
+}
+
+.separate
+{
+    margin: 2em 0;
+}
